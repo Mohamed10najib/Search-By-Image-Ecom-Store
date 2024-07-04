@@ -1,0 +1,8 @@
+
+.cardproduct{margin: 10px;}
+.badge{margin-top: 10px;
+margin-left: 5px;
+
+}
+.womencolor{background-color: rgb(242, 8, 234);}
+.cardproduct:hover{opacity: 0.6;}
